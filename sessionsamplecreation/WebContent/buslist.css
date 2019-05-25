@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+body{background-image: url("buslistretrive.jpg");background-size: cover}
+div{background-color:fuchsia;}
+table{height:700px;width:500;border:0px solid black;padding-left: 200px;}
+h1{text-align:center;color:blue}
+th{border:2px solid blue;background-color: aqua;text-align: center}
+tr{border:2px solid olive;text-align: center}
+td{border:2px solid blue;text-align: center;color:lime;}
+a:hover{color:red;background-color:transparent;text-decoration:underline;}
+a:active{color:yellow;background-color:transparent;text-decoration:underline;}
+.as{position:relative;left:1250px;margin-top:0px}
